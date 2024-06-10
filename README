@@ -1,5 +1,5 @@
 Neste projeto foi criado um relógio analógico.
 Selecionamor os elemento no html para manipulação
-Depois colocamos um timer qual epga o date atual, hora, min e sec para montar o relógio digital.
+Depois colocamos um timer qual pega a data atual, hora, min e sec para montar o relógio digital.
 Foi adicionado uma função para quando for o timer for meno que dez acrescente o número 0 na frente.
 Depois criamos o analógico calculando o angulo dos elemento, sec e min (360/60) - 90 e para hora (360/12)-90;
